@@ -1,5 +1,5 @@
 Dependencies for Project 'Solar_Streetlamp', Target 'Mode': (DO NOT MODIFY !)
-F (..\User\src\main.c)(0x59C092C5)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\Bsp\inc -I ..\CM3\inc -I ..\STM32F10x_StdPeriph_Lib\inc -I ..\User\inc -I ..\STemWin\Config -I ..\STemWin\inc -I ..\Demo -I ..\Actuator\Inc -I ..\App\inc-IF:\汽车称重\程序\MDK\RTE-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (..\User\src\main.c)(0x59C0DFD1)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\Bsp\inc -I ..\CM3\inc -I ..\STM32F10x_StdPeriph_Lib\inc -I ..\User\inc -I ..\STemWin\Config -I ..\STemWin\inc -I ..\Demo -I ..\Actuator\Inc -I ..\App\inc-IF:\汽车称重\程序\MDK\RTE-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (..\User\inc\main.h)(0x59C08AAB)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
 I (..\CM3\inc\stm32f10x.h)(0x4D783CB4)

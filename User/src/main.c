@@ -43,9 +43,11 @@ int main(void)
     SetFont(EN8X16);
     DisplayString(0,0,(char *)Rx1_Buffer);
     Test.Long = 0x12345678;
+    
     while(1)
     {
         ModBusRun();
+        
         if(TimeMs % 100 == 0)
         {
             sprintf(str, "%dHz",TIM8Freq);
