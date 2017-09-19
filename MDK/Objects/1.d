@@ -1,0 +1,9 @@
+.\objects\1.o: ..\User\1.c
+.\objects\1.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\1.o: ..\STemWin522\inc\GUI.h
+.\objects\1.o: ..\STemWin522\inc\GUI_ConfDefaults.h
+.\objects\1.o: ..\STemWin522\Config\GUIConf.h
+.\objects\1.o: ..\STemWin522\inc\GUI_Type.h
+.\objects\1.o: ..\STemWin522\inc\LCD.h
+.\objects\1.o: ..\STemWin522\inc\Global.h
+.\objects\1.o: ..\STemWin522\inc\GUI_Version.h
